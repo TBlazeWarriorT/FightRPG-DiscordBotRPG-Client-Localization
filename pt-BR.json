@@ -352,8 +352,8 @@
     "sellall_total_value": "Valor total dos itens",
     "sellall_are_you_sure": "Você tem certeza que quer vender esses itens?",
     "sellall_cancel": "Você cancelou as vendas",
-    "sellall_going_to_sell_power_sup": "Todos os itens com uma potência maior ou igual a %d",
-    "sellall_going_to_sell_power_inf": "Todos os itens com uma potência menor ou igual a %d",
+    "sellall_going_to_sell_power_sup": "Todos os itens com um poder maior ou igual a %d",
+    "sellall_going_to_sell_power_inf": "Todos os itens com um poder menor ou igual a %d",
     "sellall_going_to_sell_name": "Todos itens cujo nome conter \"%s\""
   },
   "mounts": {
